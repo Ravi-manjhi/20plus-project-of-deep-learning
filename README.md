@@ -2,14 +2,23 @@
 
 More the 15+ Project on deep learning.
 
-Movie Recommendations with Movielens Dataset
-TensorFlow
-Sales Forecasting with Walmart
-Stock Price Predictions
-Human Activity Recognition with Smartphones
-Wine Quality Predictions
-Breast Cancer Prediction
-Iris Classification
-Sorting of Specific Tweets on Twitter
-Turning Handwritten Documents into Digitized Versions
+1. Movie Recommendations with Movielens Dataset
+
+2. TensorFlow
+
+3. Sales Forecasting with Walmart
+
+4. Stock Price Predictions
+
+5. Human Activity Recognition with Smartphones
+
+6. Wine Quality Predictions
+
+8. Breast Cancer Prediction
+
+9. Iris Classification
+
+10. Sorting of Specific Tweets on Twitter
+
+11. Turning Handwritten Documents into Digitized Versions
 and More....
